@@ -1,0 +1,45 @@
+body{
+
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: #e1e1e1;
+  background-color: black;
+  font-family: 'Marcellus', serif;
+  font-family: 'Allura', cursive;
+  font-family: 'Mr Dafoe', cursive;
+  font-family: 'Aclonica', sans-serif;
+  font-family: 'Arizonia', cursive;
+  font-family: 'Federo', sans-serif;
+  
+
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+
+}
+
+.page_body{
+
+font-family: 'Federo', sans-serif;
+
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+
+position: relative;
+top: 45px;
+
+
+}
